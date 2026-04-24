@@ -1,5 +1,5 @@
 body{
-  background:#f3f3f3;
+  background!#f3f3f3;
   color:#333;
   width:100%;
   font-family:sans-serif;
@@ -14,13 +14,15 @@ body{
   background:#417aa8;
   color:#fff;
 }
+
 .jarak{
     padding:0 2pc;
 }
+
 .menu{
   background-color:#417aa8;
   hight:50px;
-  line-heught:50px;
+  line-height:50px;
   position:relative;
   width:90%;
   margin:0 auto;
@@ -39,6 +41,7 @@ body{
   color:#FFF;
   text-decoration:none;
 }
+
 .menu ul li a:hover {
   background-color:#4b88bb;
   display:block;
